@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/eda-nur-nair-" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://edanair-portfolio.vercel.app" target="_blank">
+    <a href="https://edanurnair.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-7E3ACE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
     </a>
   </p>
